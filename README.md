@@ -1,1 +1,1 @@
-# E-math
+# E-math- An application that assists in solving math equations varying from basic arithmetic to calculus.
