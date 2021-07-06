@@ -79,3 +79,4 @@ def area_triangle():
         s = (a + b + c) / 2
         print(math.sqrt(s * (s - a) * (s - b) * (s - c)))
 area_triangle()
+print("Thank you for using this program!")
