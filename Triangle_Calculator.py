@@ -1,5 +1,5 @@
 import math
-print("Their are no trig identities because they are important for you!!")
+print("There are no trig identities because they are important for you!!")
 type=int(input("Press 1 to use Trig functions; 2 for Pythagorean theorem; 3 for law of sines; 4 for law of cosines; 5 for Any Triangle area: "))
 
 def Pythagorean():
