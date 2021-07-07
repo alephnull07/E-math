@@ -1,4 +1,0 @@
-x= input('Enter X value to plot')
-y= input('Enter Y value to plot')
-plot(x,y)
-#:thinkies:
