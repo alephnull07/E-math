@@ -24,5 +24,7 @@ else:
 
 x = (-b + ((b**2 + (4*a*c * -1))**0.5))/(2*a)
 y = (-b - ((b**2 + (4*a*c * -1))**0.5))/(2*a)
-print("the simplified versions are: " + str(x) +" and " + str(y))
-
+if x==y:
+    print("The 1 solution for this quadratic is: x= " + str(x))
+else:
+    print("the solutions are: x = " + str(x) +" and x = " + str(y))
